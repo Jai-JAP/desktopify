@@ -6,4 +6,4 @@ This is a fork of [wimpysworld](https://github.com/wimpysworld)'s [desktopify](h
   
 Also it supports apt-fast if available for faster downloads.
 
-### For original Readme go [here](Readme-old.md)
+### For original Readme go [here](README-old.md)
