@@ -19,7 +19,7 @@ Also it supports apt-fast if available for faster downloads.
   * Change your current directory to desktopify directory
     * `cd desktopify`
   * Convert the server to a desktop
-    * See [Usage](https://github.com/Jai-JAP/desktopify#Usage)
+    * See Usage (Below)
 
 ### Usage
 
@@ -27,16 +27,14 @@ Also it supports apt-fast if available for faster downloads.
 
 Available desktop environments are:
 
-  ```
-  lubuntu
-  kubuntu
-  ubuntu
-  ubuntu-budgie
-  ubuntu-kylin
-  ubuntu-mate
-  ubuntu-studio
-  xubuntu
-  ```
+  `lubuntu`  
+  `kubuntu`  
+  `ubuntu`  
+  `ubuntu-budgie`  
+  `ubuntu-kylin`  
+  `ubuntu-mate`  
+  `ubuntu-studio`  
+  `xubuntu`  
 
 You can also pass the optional --oem option which will run a setup
 wizard on the next boot.
